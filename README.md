@@ -1,4 +1,4 @@
-# chat4k
+# Chat 4K
 VERSIONS:
 
 - Chat V3
